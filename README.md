@@ -1,5 +1,9 @@
 # Project Reflection Template
 ## Summary
+- This is a bulletpoint
+    - This is a nested bulletpoint
+[] This is a task
+[x] This is a finished task
 [Provide a brief overview of your project.]
 ## Languages and Libraries Used
 [List the programming languages, libraries, and tools utilized in your project.]
